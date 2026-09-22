@@ -1,5 +1,16 @@
 # Cambios
 
+## 1.3.0 — 22 de septiembre de 2026
+
+**Ya están los veinticuatro juegos.** Los tres que faltaban:
+
+- **Dibujo por números** — pintar casillas siguiendo los números de los bordes hasta que
+  sale un dibujo, en 5×5 y en 10×10. Ninguno obliga a adivinar: todos se sacan razonando.
+- **Mahjong** — quitar las fichas de dos en dos emparejando las iguales. Sin ideogramas
+  chinos: cada ficha lleva número, símbolo y color. Todos los repartos tienen solución.
+- **Dominó** — contra la máquina. La ficha se coloca sola, dándole la vuelta si hace
+  falta, y arriba pone siempre qué números hay en los dos extremos.
+
 ## 1.2.0 — 22 de septiembre de 2026
 
 - **Cuatro juegos nuevos**: Torres de Hanói (con pista, que dice siempre la mejor
