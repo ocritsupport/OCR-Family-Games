@@ -1,5 +1,16 @@
 # Cambios
 
+## 1.2.0 — 22 de septiembre de 2026
+
+- **Cuatro juegos nuevos**: Torres de Hanói (con pista, que dice siempre la mejor
+  jugada), Tres Picos, Golf y Conecta 4 contra la máquina con tres niveles. Ya son
+  veintiún juegos.
+- **El Solitario y Carta Blanca terminan la partida solos.** Cuando las columnas ya están
+  ordenadas y solo falta ir tocando para que suban las cartas, lo hacen ellos, de una
+  carta en una. No se adelantan: la aplicación juega la partida entera por dentro y solo
+  la termina si con eso se gana seguro; mientras quede una decisión de verdad, no toca
+  nada.
+
 ## 1.1.1 — 22 de septiembre de 2026
 
 - **Carta Blanca dice por qué no vale una jugada.** Antes, cuando una jugada no valía no
