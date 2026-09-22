@@ -1,5 +1,30 @@
 # Cambios
 
+## 1.1.0 — 22 de septiembre de 2026
+
+- **El arrastre de cartas, arreglado de raíz.** Las cartas que no se dejaban coger, las
+  jugadas buenas que no se quedaban puestas por mucha puntería que se pusiera y las
+  cartas duplicadas o sueltas eran todas la misma cosa: al arrastrar, el juego consultaba
+  el tablero tal y como estaba al repartir y no como está ahora. Pasaba en el Solitario,
+  en Carta Blanca, en la Araña y en La Pirámide.
+- **Una carta que se levanta y se vuelve a dejar donde estaba se queda donde estaba.**
+  Antes, apartarla dos dedos y soltarla la mandaba sola a la columna de al lado.
+- **La Sopa de letras ya se puede jugar.** No se podía marcar ninguna palabra, ni
+  arrastrando el dedo de la primera letra a la última ni tocando una y otra. Era el mismo
+  fallo de fondo.
+- **Cinco juegos nuevos**: Palabra del día (adivinar una palabra de cinco letras en seis
+  intentos, la misma para todo el día), Simón dice, Casillas, Recuerda el número y
+  ¿Qué falta? Los cuatro últimos son de memoria.
+- En la ayuda de Carta Blanca se explica por qué a veces una carta de en medio no se deja
+  coger: para llevarse varias a la vez tienen que estar ya en orden y alternando color.
+
+## 1.0.3 — 22 de septiembre de 2026
+
+- **Arrastrar ya no exige puntería de cirujano.** Al soltar se mira el rectángulo de la
+  carta y no la punta del dedo, y solo se tienen en cuenta los sitios donde la jugada
+  sería legal, de modo que se puede ser generoso sin colocar nada donde no tocaba.
+  Mientras se arrastra, el sitio donde va a caer se señala con un borde.
+
 ## 1.0.2 — 22 de septiembre de 2026
 
 - **Arreglado el arrastre de cartas**, que en la 1.0.1 hacía cosas raras: cartas
