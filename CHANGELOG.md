@@ -1,5 +1,17 @@
 # Cambios
 
+## 1.0.2 — 22 de septiembre de 2026
+
+- **Arreglado el arrastre de cartas**, que en la 1.0.1 hacía cosas raras: cartas
+  duplicadas, cartas que desaparecían de su columna y cartas sueltas por el tapete. Al
+  empezar a arrastrar, la carta se quitaba de la pantalla y con ella se destruía el
+  detector del gesto, así que el arrastre se quedaba colgado a medio camino. Ahora la
+  carta se queda en su sitio, transparente. Además, los sitios donde se puede soltar se
+  dan de baja al dejar de existir (se notaba en La Pirámide), y un arrastre colgado se
+  cancela solo en cuanto se hace una jugada.
+- **El crucigrama se ve más grande**: la rueda de letras pasa de 260 a 210 puntos de alto
+  y ese espacio va a las casillas, que salen bastante mayores, con la letra a juego.
+
 ## 1.0.1 — 22 de septiembre de 2026
 
 Arreglos y una mejora salidos de probar la 1.0.0 en tablet y en teléfono.
