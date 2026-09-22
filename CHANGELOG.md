@@ -1,5 +1,23 @@
 # Cambios
 
+## 1.0.1 — 22 de septiembre de 2026
+
+Arreglos y una mejora salidos de probar la 1.0.0 en tablet y en teléfono.
+
+- **En el teléfono no se leían las letras de las casillas.** En el Crucigrama, la Sopa de
+  letras, el Sudoku, Palabras y Parejas, la letra salía cortada o fuera de la casilla. Al
+  fijar solo el tamaño de la letra, el alto de línea seguía siendo el general de la
+  aplicación, de modo que en una casilla de 25 puntos el texto ocupaba 34. En tablet, con
+  las casillas grandes, no se notaba.
+- **El Crucigrama daba por buenas casi todas las combinaciones** como «palabra extra»,
+  porque las comprobaba contra el diccionario de 635.000 palabras, que admite rarezas como
+  BOSAR, BROA o ROBS. Ahora se miden con la lista de palabras corrientes, la misma con la
+  que se arman los crucigramas.
+- **Se pueden arrastrar las cartas** en el Solitario, Carta Blanca, Araña y La Pirámide.
+  Tocar origen y destino sigue funcionando igual: no se quita, porque para quien no tiene
+  pulso para arrastrar es la única forma cómoda de jugar.
+- El Crucigrama ya no carga el diccionario grande, así que abre antes.
+
 ## 1.0.0 — 21 de septiembre de 2026
 
 Primera versión pública.
