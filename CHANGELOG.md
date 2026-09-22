@@ -1,5 +1,18 @@
 # Cambios
 
+## 1.1.1 — 22 de septiembre de 2026
+
+- **Carta Blanca dice por qué no vale una jugada.** Antes, cuando una jugada no valía no
+  pasaba nada: ni aviso ni sonido, y eso parece una avería más que una regla. Ahora lo
+  explica con un aviso que se va solo: cuántas cartas puede mover de golpe y cuántas
+  lleva, qué carta hace falta encima de cuál, o que esas cartas no van seguidas.
+- **Arriba, donde ponía «Huecos», ahora pone «De golpe»**: cuántas cartas se pueden mover
+  de una vez. Los huecos libres ya se ven mirando la pantalla; ese número no, y es el que
+  decide la partida.
+- Recordatorio que ahora sale en la ayuda: en Carta Blanca **el rey no es especial**. En
+  una columna vacía cabe cualquier carta —eso es del Solitario—, y lo que impide llevar
+  una escalera larga a un sitio vacío es el tope de cuántas van de golpe.
+
 ## 1.1.0 — 22 de septiembre de 2026
 
 - **El arrastre de cartas, arreglado de raíz.** Las cartas que no se dejaban coger, las
