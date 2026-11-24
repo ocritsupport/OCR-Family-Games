@@ -1,5 +1,38 @@
 # Cambios
 
+## 1.4.0 — 24 de noviembre de 2026
+
+**Aspecto nuevo.** Toda la aplicación se ha renovado para que se vea como los juegos de
+hoy, sin perder nada de lo que la hace cómoda:
+
+- Detrás de cada juego hay un paisaje de colinas, con un color para cada familia
+  (cartas, palabras, memoria y números). De noche, con luna y estrellas.
+- Botones con relieve que se hunden al pulsarlos, letra nueva más redonda y clara, y
+  marcadores en pastillas.
+- Los botones de abajo llevan el dibujo encima de la palabra: ya no se parten palabras
+  como «Deshacer» en el teléfono.
+- **Cartas nuevas**: el palo va al lado del número, así que se ve también en las cartas
+  amontonadas. Antes, de las de abajo solo se veía el número.
+- Las fichas de 2048 tienen colores vivos, las parejas se dan la vuelta al tocarlas, en
+  la Palabra del día las casillas giran al comprobar y en el Crucigrama una línea une las
+  letras que va eligiendo.
+
+**Más cosas:**
+
+- El Solitario, la Araña y La Pirámide explican por qué no vale una jugada, como ya hacía
+  Carta Blanca.
+- Dibujo por números: 14 dibujos pequeños y 18 grandes (antes 8 y 10).
+- Al terminar una partida se puede apartar el mensaje para ver el tablero.
+- «Nueva partida» pregunta antes de tirar una a medias.
+- El menú recuerda por dónde iba al volver de un juego.
+
+**Arreglos:** en Tres Picos se veían mal las cartas de abajo (y ahora tiene «Deshacer»);
+el Dominó se salía de la pantalla; los avisos de Hanói tapaban los discos; en ¿Qué falta?
+se podía acertar sin usar la memoria; y en el Sudoku, deshacer ya no atrasa el reloj y
+las notas a lápiz se leen bien.
+
+Sigue igual lo importante: sin anuncios, sin compras, sin cuentas y sin prisa.
+
 ## 1.3.0 — 22 de septiembre de 2026
 
 **Ya están los veinticuatro juegos.** Los tres que faltaban:
